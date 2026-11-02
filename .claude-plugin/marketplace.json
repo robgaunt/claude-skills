@@ -7,6 +7,11 @@
       "name": "reddit",
       "source": "./plugins/reddit",
       "description": "Read Reddit threads, subreddits and topic discussions via OpenAI Codex CLI's live web browsing."
+    },
+    {
+      "name": "chat-archive",
+      "source": "./plugins/chat-archive",
+      "description": "Back up claude.ai chat history via the official export, keep a merged Markdown archive, and search it locally with qmd."
     }
   ]
 }

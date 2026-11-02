@@ -1,0 +1,10 @@
+{
+  "name": "chat-archive",
+  "description": "Back up your claude.ai chat history with the official export, keep it as a local Markdown archive that merges each new export, and search it with qmd's local keyword + semantic search.",
+  "version": "1.0.0",
+  "author": { "name": "Rob Gaunt", "url": "https://github.com/robgaunt" },
+  "homepage": "https://github.com/robgaunt/claude-skills",
+  "repository": "https://github.com/robgaunt/claude-skills",
+  "license": "MIT",
+  "keywords": ["claude.ai", "export", "backup", "archive", "search", "qmd", "chrome"]
+}
