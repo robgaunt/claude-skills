@@ -1,0 +1,10 @@
+{
+  "name": "reddit",
+  "description": "Read Reddit threads, subreddits and topic discussions from Claude Code by delegating the fetch to OpenAI Codex CLI's live web browsing.",
+  "version": "1.0.0",
+  "author": { "name": "Rob Gaunt", "url": "https://github.com/robgaunt" },
+  "homepage": "https://github.com/robgaunt/claude-skills",
+  "repository": "https://github.com/robgaunt/claude-skills",
+  "license": "MIT",
+  "keywords": ["reddit", "codex", "web", "research"]
+}

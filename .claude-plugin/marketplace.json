@@ -1,0 +1,12 @@
+{
+  "name": "robgaunt-skills",
+  "description": "Claude Code skills by Rob Gaunt",
+  "owner": { "name": "Rob Gaunt", "url": "https://github.com/robgaunt" },
+  "plugins": [
+    {
+      "name": "reddit",
+      "source": "./plugins/reddit",
+      "description": "Read Reddit threads, subreddits and topic discussions via OpenAI Codex CLI's live web browsing."
+    }
+  ]
+}
